@@ -1,7 +1,8 @@
 # Ny alarm display kommenter
 
-1. Start kommentar\
-   På Alarm Display siden under "kommenter" kolonnen trykkes \[mere]
+## Start kommentar
+
+På Alarm Display siden under "kommenter" kolonnen trykkes \[mere]
 
 ![](../.gitbook/assets/start\_kommentar.png)
 

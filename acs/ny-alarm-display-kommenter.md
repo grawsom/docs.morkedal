@@ -6,12 +6,11 @@ På Alarm Display siden under "kommenter" kolonnen trykkes \[mere]
 
 ![](../.gitbook/assets/start\_kommentar.png)
 
-## Tryk rediger for at åbne
+2\. Tryk rediger for at åbne
 
 ![](../.gitbook/assets/tryk\_rediger\_for\_at\_\_bne.png)
 
-## Redigering af kommentar
-
+3\. Redigering af kommentar\
 Her kan man skrive hvad man har lyst til eks. kunne være
 
 * Type - Blind, Falsk osv.
@@ -23,8 +22,7 @@ Her kan man skrive hvad man har lyst til eks. kunne være
 
 Tryk \[LUK] når man er færdig
 
-## Sådan vises kommentar
-
+4\. Sådan vises kommentar\
 Ude til højre vil man kunne se indtastede kommentarer.
 
 ![](../.gitbook/assets/s\_dan\_vises\_kommentar.png)

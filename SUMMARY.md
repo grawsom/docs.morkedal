@@ -18,5 +18,4 @@
 
 ***
 
-* [Send Notification](send-notification.md)
 * [Page 4](page-4.md)

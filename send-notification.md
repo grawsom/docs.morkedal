@@ -10,7 +10,9 @@ Klik i menuen ude til venstre "Send Notification"
 
 ## 2. Vælg en kendt bruger
 
-I boksen til venstre er alle de kendte brugere i systemet, her vælger man dem der skal kaldes ![Vælg en kendt bruger](<.gitbook/assets/sn\_step 1 (1)>)
+I boksen til venstre er alle de kendte brugere i systemet, her vælger man dem der skal kaldes 
+
+![Vælg en kendt bruger](<.gitbook/assets/sn\_step 1 (1)>)
 
 ## 3. Overfør den/de valgte
 

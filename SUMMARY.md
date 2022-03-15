@@ -11,12 +11,8 @@
 ## s.ONE
 
 * [Page 3](s.one/page-3.md)
-
-## FAQ
-
-* [Page 2](faq/page-2.md)
+* [Page 2](s.one/page-2.md)
 
 ***
 
-* [Page 4](page-4.md)
-* [send\_notification](send\_notification.md)
+* [Send Notification](send-notification.md)

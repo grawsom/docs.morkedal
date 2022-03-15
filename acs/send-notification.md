@@ -4,23 +4,23 @@ Lille guide som viser hvordan man sender notification.
 
 ## Vælg \[Send Notification]
 
-Klik i menuen ude til venstre \[Send Notification]&#x20;
+Klik i menuen ude til venstre \[Send Notification]
 
-![](../.gitbook/assets/steps-send\_notification/step-7.png)
+![](<../.gitbook/assets/sn\_step 7>)
 
-![Vælg \[Send Notification\]](../.gitbook/assets/steps-send\_notification\_step-0.jpeg)
+![Vælg \[Send Notification\]](<../.gitbook/assets/sn\_step 0>)
 
 ## Vælg en kendt bruger
 
-I boksen til venstre er alle de kendte brugere i systemet, her vælger man dem der skal kaldes ![Vælg en kendt bruger](../.gitbook/assets/steps-send\_notification/step-1.png)
+I boksen til venstre er alle de kendte brugere i systemet, her vælger man dem der skal kaldes ![Vælg en kendt bruger](<../.gitbook/assets/sn\_step 1>)
 
 ## Overfør den/de valgte
 
-klik >> for at flytte den/de valgte brugere til den højre boks (Recipients = modtagere). ![Overfør den/de valgte](../.gitbook/assets/steps-send\_notification/step-2.png)
+klik >> for at flytte den/de valgte brugere til den højre boks (Recipients = modtagere). ![Overfør den/de valgte](<../.gitbook/assets/sn\_step 2 (1)>)
 
 ## Udfyld tekst
 
-I vindue \[Notification Text] skrives nu den tekst/besked man vil sende. ![Udfyld tekst](../.gitbook/assets/steps-send\_notification/step-3.png)
+I vindue \[Notification Text] skrives nu den tekst/besked man vil sende. ![Udfyld tekst](<../.gitbook/assets/sn\_step 3>)
 
 ## Vælg medie
 
@@ -28,11 +28,11 @@ Vælg nu hvilket "medie" man vil sende på.
 
 * Flash SMS
 * Pager
-* SMS ![Vælg medie](../.gitbook/assets/steps-send\_notification/step-4.png)
+* SMS ![Vælg medie](<../.gitbook/assets/sn\_step 4>)
 
 ## Her vælger vi "Pager"
 
-Vælg \[Pager] for at kalde alarmmodtagere. ![Her vælger vi "Pager"](../.gitbook/assets/steps-send\_notification/step-5.png)
+Vælg \[Pager] for at kalde alarmmodtagere. ![Her vælger vi "Pager"](<../.gitbook/assets/sn\_step 5 (1)>)
 
 ## Send besked \[pager)
 
@@ -40,7 +40,7 @@ Tryk på knappen \[Send] for at sende beskeden. !\[Send besked [pager)](../.gitb
 
 ## Tjek udsending
 
-Oppe i toppen vil der stå om beskeden blev sendt. ![Tjek udsending](../.gitbook/assets/steps-send\_notification/step-7.png)
+Oppe i toppen vil der stå om beskeden blev sendt. ![Tjek udsending](<../.gitbook/assets/sn\_step 7>)
 
 ## Send besked \[SMS)
 
@@ -52,15 +52,15 @@ I feltet "Recipient" udfyldes det nr. man vil sende til.
 
 Dette kan være nr. til pager eller nr. til mobil.
 
-Her vises eksempel med mobil. ![Manuel modtager](../.gitbook/assets/steps-send\_notification/step-9.png)
+Her vises eksempel med mobil. ![Manuel modtager](<../.gitbook/assets/sn\_step 9 (1)>)
 
 ## Manuel - Tilføj modtager
 
-Tryk knappen \[Add] for at tilføj det manuelle nr. ![Manuel - Tilføj modtager](../.gitbook/assets/steps-send\_notification/step-10.png)
+Tryk knappen \[Add] for at tilføj det manuelle nr. ![Manuel - Tilføj modtager](<../.gitbook/assets/sn\_step 10>)
 
 ## Manuel - Udfyld tekst
 
-I vindue \[Notification Text] skrives nu den tekst/besked man vil sende. ![Manuel - Udfyld tekst](../.gitbook/assets/steps-send\_notification/step-11.png)
+I vindue \[Notification Text] skrives nu den tekst/besked man vil sende. ![Manuel - Udfyld tekst](<../.gitbook/assets/sn\_step 11>)
 
 ## Manuel - Vælg medie
 
@@ -68,11 +68,11 @@ Vælg nu hvilket "medie" man vil sende på.
 
 * Flash SMS
 * Pager
-* SMS ![Manuel - Vælg medie](../.gitbook/assets/steps-send\_notification/step-12.png)
+* SMS ![Manuel - Vælg medie](<../.gitbook/assets/sn\_step 12 (1) (1)>)
 
 ## Manuel - Her vælger vi "SMS"
 
-Vælg \[SMS] for at sende SMS til mobil. ![Manuel - Her vælger vi "SMS"](../.gitbook/assets/steps-send\_notification/step-13.png)
+Vælg \[SMS] for at sende SMS til mobil. ![Manuel - Her vælger vi "SMS"](<../.gitbook/assets/sn\_step 13 (1)>)
 
 ## Manuel - Send besked \[SMS)
 
@@ -80,4 +80,4 @@ Tryk på knappen \[Send] for at sende beskeden. !\[Manuel - Send besked [SMS)](.
 
 ## EVT. Fejl
 
-Hvis noget fejler vil det stå med RØDT i toppen. ![EVT. Fejl](../.gitbook/assets/steps-send\_notification/step-15.png)
+Hvis noget fejler vil det stå med RØDT i toppen. ![EVT. Fejl](<../.gitbook/assets/sn\_step 15 (1)>)

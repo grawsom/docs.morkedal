@@ -4,7 +4,9 @@ Lille guide som viser hvordan man sender notification.
 
 ## 1. Vælg "Send Notification"
 
-Klik i menuen ude til venstre "Send Notification" ![Vælg "Send Notification"](<.gitbook/assets/sn\_step 0>)
+Klik i menuen ude til venstre "Send Notification"
+
+![](<.gitbook/assets/sn\_step 0>)
 
 ## 2. Vælg en kendt bruger
 
